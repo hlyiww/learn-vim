@@ -7,7 +7,13 @@ const sidebar = [
   },
   {
     text: "Vim 篇",
-    items: [{ text: "Day01 —— 存活下去", link: "/vim/day_01_ surviving.md" }],
+    items: [
+      { text: "Day01 —— 存活下去", link: "/vim/day_01_ surviving.md" },
+      {
+        text: "Day02 —— 掌握行相关的命令",
+        link: "/vim/day_02_command.md",
+      },
+    ],
   },
 ];
 
