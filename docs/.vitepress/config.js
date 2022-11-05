@@ -13,6 +13,10 @@ const sidebar = [
         text: "Day02 —— 掌握行相关的命令",
         link: "/vim/day_02_command.md",
       },
+      {
+        text: "Day03 —— 掌握 vim 的语法",
+        link: "/vim/day_03_grammer.md",
+      },
     ],
   },
 ];
