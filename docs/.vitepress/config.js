@@ -17,6 +17,10 @@ const sidebar = [
         text: "Day03 —— 掌握 vim 的语法",
         link: "/vim/day_03_grammer.md",
       },
+      {
+        text: "Day04 —— 单字符",
+        link: "/vim/day_04_single_character.md",
+      },
     ],
   },
 ];
