@@ -21,6 +21,10 @@ const sidebar = [
         text: "Day04 —— 单字符",
         link: "/vim/day_04_single_character.md",
       },
+      {
+        text: "Day05 —— 掌握可视化模式",
+        link: "/vim/day_05_visual.md",
+      },
     ],
   },
 ];
