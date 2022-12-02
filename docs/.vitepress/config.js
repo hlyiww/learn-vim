@@ -25,6 +25,10 @@ const sidebar = [
         text: "Day05 —— 掌握可视化模式",
         link: "/vim/day_05_visual.md",
       },
+      {
+        text: "Day06 —— 文本对象",
+        link: "/vim/day_06_text.md",
+      },
     ],
   },
 ];
