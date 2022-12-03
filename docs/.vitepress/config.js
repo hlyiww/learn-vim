@@ -36,6 +36,10 @@ const sidebar = [
       {
         text: "Day08 —— 掌握搜索命令",
         link: "/vim/day_08_search.md"
+      },
+      {
+        text: "Day09 —— 更高效的移动",
+        link: "/vim/day_09_ move_efficiently.md"
       }
     ],
   },
