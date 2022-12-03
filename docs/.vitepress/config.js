@@ -39,7 +39,11 @@ const sidebar = [
       },
       {
         text: "Day09 —— 更高效的移动",
-        link: "/vim/day_09_ move_efficiently.md"
+        link: "/vim/day_09_move_efficiently.md"
+      },
+      {
+        text: "Day10 —— 认识数字&点的威力",
+        link: "/vim/day_10_dot.md"
       }
     ],
   },
