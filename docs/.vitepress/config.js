@@ -33,6 +33,10 @@ const sidebar = [
         text: "Day07 —— 在单文件中更快移动",
         link: "/vim/day_07_move_faster",
       },
+      {
+        text: "Day08 —— 掌握搜索命令",
+        link: "/vim/day_08_search.md"
+      }
     ],
   },
 ];
