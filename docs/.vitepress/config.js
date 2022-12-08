@@ -49,6 +49,10 @@ const sidebar = [
         text: 'Day11 —— 掌握多文件之间的跳转',
         link: '/vim/day_11_multi_file.md',
       },
+      {
+        text: 'Day12—— 处理包裹字符的符号',
+        link: '/vim/day_12_signal.md',
+      },
     ],
   },
 ]
