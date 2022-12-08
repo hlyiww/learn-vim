@@ -53,6 +53,10 @@ const sidebar = [
         text: 'Day12—— 处理包裹字符的符号',
         link: '/vim/day_12_signal.md',
       },
+      {
+        text: 'Day13—— 替换字符',
+        link: '/vim/day_13_change.md',
+      },
     ],
   },
 ]
