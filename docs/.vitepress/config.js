@@ -57,6 +57,10 @@ const sidebar = [
         text: 'Day13—— 替换字符',
         link: '/vim/day_13_change.md',
       },
+      {
+        text: 'Day14—— 掌握悬浮显示 & 大小写 & 注释',
+        link: '/vim/day_14.md',
+      },
     ],
   },
 ]
