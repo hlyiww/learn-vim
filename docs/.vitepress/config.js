@@ -73,6 +73,10 @@ const sidebar = [
         text: 'Day17 —— 掌握宏',
         link: '/vim/day_17.md',
       },
+      {
+        text: 'Day18 —— 调用 Vscode 的命令',
+        link: '/vim/day_18.md',
+      },
     ],
   },
 ]
