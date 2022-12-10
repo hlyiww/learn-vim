@@ -81,7 +81,10 @@ const sidebar = [
   },
   {
     text: 'Vscode 篇',
-    items: [{ text: 'Day01 —— 操作文件', link: 'vscode/day_01.md' }],
+    items: [
+      { text: 'Day01 —— 操作文件', link: 'vscode/day_01.md' },
+      { text: 'Day02 —— 操作多个 vscode 窗口', link: 'vscode/day_02.md' },
+    ],
   },
 ]
 
