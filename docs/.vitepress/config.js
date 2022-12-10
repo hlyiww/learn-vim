@@ -50,16 +50,20 @@ const sidebar = [
         link: '/vim/day_11_multi_file.md',
       },
       {
-        text: 'Day12—— 处理包裹字符的符号',
+        text: 'Day12 —— 处理包裹字符的符号',
         link: '/vim/day_12_signal.md',
       },
       {
-        text: 'Day13—— 替换字符',
+        text: 'Day13 —— 替换字符',
         link: '/vim/day_13_change.md',
       },
       {
-        text: 'Day14—— 掌握悬浮显示 & 大小写 & 注释',
+        text: 'Day14 —— 掌握悬浮显示 & 大小写 & 注释',
         link: '/vim/day_14.md',
+      },
+      {
+        text: 'Day15 —— 掌握窗口的管理',
+        link: '/vim/day_15.md',
       },
     ],
   },
