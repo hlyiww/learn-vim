@@ -65,6 +65,10 @@ const sidebar = [
         text: 'Day15 —— 掌握窗口的管理',
         link: '/vim/day_15.md',
       },
+      {
+        text: 'Day16 —— 删除函数',
+        link: '/vim/day_16.md',
+      },
     ],
   },
 ]
