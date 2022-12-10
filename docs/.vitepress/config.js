@@ -79,6 +79,10 @@ const sidebar = [
       },
     ],
   },
+  {
+    text: 'Vscode 篇',
+    items: [{ text: 'Day01 —— 操作文件', link: 'vscode/day_01.md' }],
+  },
 ]
 
 const themeConfig = {
