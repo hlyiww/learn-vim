@@ -85,6 +85,7 @@ const sidebar = [
       { text: 'Day01 —— 操作文件', link: 'vscode/day_01.md' },
       { text: 'Day02 —— 操作多个 vscode 窗口', link: 'vscode/day_02.md' },
       { text: 'Day03 —— 掌握搜索', link: 'vscode/day_03.md' },
+      { text: 'Day04 —— 编码时的常用命令', link: 'vscode/day_04.md' },
     ],
   },
 ]
